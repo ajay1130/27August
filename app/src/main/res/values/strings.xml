@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">27August</string>
+    <string name="start_button_animation">Start/Change Animation</string>
+    <string name="stop_button_animation">Stop Animation</string>
+    <string name="open_videoplayer_activity">Open Video Player</string>
+    <string name="request_permission">Request Permission</string>
+    <string name="permission_granted">Permission Granted...</string>
+    <string name="start_easypermission">EasyPermission Activity</string>
+    <string name="denied_permission_text">This app will need this permission.</string>
+</resources>
